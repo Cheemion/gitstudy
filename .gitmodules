@@ -1,6 +1,3 @@
-[submodule "JPEG_COMPRESS"]
-	path = JPEG_COMPRESS
-	url = git@github.com:Cheemion/JPEG_COMPRESS.git
 [submodule "emacs_config"]
 	path = emacs_config
 	url = git@github.com:Cheemion/emacs_config.git
