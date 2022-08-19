@@ -1,0 +1,3 @@
+[submodule "JPEG_COMPRESS"]
+	path = JPEG_COMPRESS
+	url = git@github.com:Cheemion/JPEG_COMPRESS.git
